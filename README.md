@@ -4,9 +4,9 @@ pkg install git
 
 pkg install ffmpeg
 
-git clone https://github.com/Mr-Pato/V2Patowsp
+git clone https://github.com/GOLIATH130/SAMIR-BOTV1.3
 
-cd V2Patowsp
+cd SAMIR-BOTV1.3
 
 bash install.sh
 
